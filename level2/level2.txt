@@ -5,17 +5,28 @@ Level 2
 1. In your own words, describe what JavaScript Code Style is.
 
 2. What is a Regular Expression?
+det er en form for input checking, den bruker en syntax hvor du putter inn hva du vil inputten skal v�re om den skal ha a-z men ikke A-Z for eksempel.
 
 3. What does the .random() method do?
+.random genererer random tall fra 0 - 0.9999..., men kan ogs� bli brukt til � generere tall over det, med � bruke andre metoder som ceil for � f� hele tall og gange random med ett tall for � f� fra 0-what ever.
 
 4. What does the .sort() method do?
+dette er en ferdig metode som sorteret i forhold til unicode. men kan bli brukt til � sortere det meste med � kalle en funksjon inni sort metoden.
 
 5. What does the .reverse() method do?
+den snur et array, fra start til slutt.
 
 6. List two examples of bad JavaScript code.
+x = g 
+for (x in x){do something
+do something else } else
+{do something}
 
 7. What data types can a JSON object contain?
+strings
 
 8. What is minifying JavaScript Code?
 
+
 9. What is a global variable?
+a variable that is accessable trough the entire file/website (global)
